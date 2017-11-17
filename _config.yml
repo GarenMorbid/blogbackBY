@@ -7,11 +7,11 @@ description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, Garen的博客, Garen, Garen, iOS, Apple, iPhone"
 url: "http://GarenMorbid.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/GarenMorbid/GarenMorbid.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "TO be or not to be!"
+sidebar-about-description: "To be or not to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: GarenMorbid
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -95,15 +95,15 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://http://steamcommunity.com/id/610717159/"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://steamcommunity.com/id/610717159/"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "http://steamcommunity.com/id/610717159/"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "http://steamcommunity.com/id/610717159/"
     }
 ]
