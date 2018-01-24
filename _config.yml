@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: Garen | BY Blog
+title: HDQ Blog
+SEOTitle: Garen | HDQ Blog
 header-img: img/post-bg-desk.jpg
 email: a610717159@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Garen的博客, Garen, Garen, iOS, Apple, iPhone"
+keyword: "HDQ, HDQ Blog, Garen的博客, Garen, Garen, iOS, Apple, iPhone"
 url: "http://GarenMorbid.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/GarenMorbid/GarenMorbid.github.io.git" # you code repository
@@ -97,7 +97,7 @@ friends: [
         title: "WY",
         href: "http://http://steamcommunity.com/id/610717159/"
     },{
-        title: "简书·BY",
+        title: "简书·HDQ",
         href: "http://steamcommunity.com/id/610717159/"
     },{
         title: "Apple",
